@@ -1,0 +1,7 @@
+node_modules
+dist
+output
+.idea
+*.iml
+server/cookie.json
+coverage

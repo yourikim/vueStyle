@@ -1,0 +1,12 @@
+.end {
+    border: 5px solid darkblue;
+}
+
+.inner {
+    border: 5px solid;
+    background: #fff;
+
+    .txt {
+        font-size: 30px;
+    }
+}

@@ -1,0 +1,16 @@
+div {
+    border: 5px solid darkblue;
+
+    .home {
+        background: pink;
+    }
+
+    .inner {
+        border: 5px solid;
+        background: #fff;
+
+        .test {
+            font-size: 30px;
+        }
+    }
+}
